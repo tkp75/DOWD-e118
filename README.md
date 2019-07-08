@@ -1,7 +1,7 @@
 # DOWD-e118
 AYTKT21025en: DevOpsWithDocker https://docker-hy.github.io/
 
-## Dummy Repository for excercise 1.18
+## Dummy Repository for excercise 1.15
 
 This repository contains only three files:
 1. Dockerfile   Docker build file to create container from this repository
