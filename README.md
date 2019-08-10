@@ -19,3 +19,5 @@ This repository contains only three files:
  * docker logs --tail 10 e115
 4. Kill the container
  * docker kill e115
+----
+Course completed => repository archived
